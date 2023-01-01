@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@angular-devkit/schematics": "^14.2.6",
+    "@angular/core": "^14.2.7",
+    "npm": "^8.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.7"
+  }
+}
